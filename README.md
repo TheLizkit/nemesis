@@ -24,4 +24,4 @@ When the malware is executed, it immediately starts to corrupt system files, mak
 
 Thanks again for trying this malware ;)
 
-I aim on creating more unique and better computer malwares in the future, and to the skidders, please don't skid my stuff..
+I aim on creating more unique and better computer malwares in the future, and to the skidders, please don't skid my stuff, just add me on Discord instead and I'll tell you how to do what you want. If you do want too, add me through "lizkit." (My username).
